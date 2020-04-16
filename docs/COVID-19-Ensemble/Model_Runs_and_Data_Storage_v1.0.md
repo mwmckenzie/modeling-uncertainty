@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Probability Distribution Creation
+title: SEIR Model and Data Organization
 parent: COVID-19 SEIR Ensemble with Behavioral Forcing
-nav_order: 4
+nav_order: 3
 ---
 
 # Model Run and Data Storage Application Notebook
