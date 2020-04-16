@@ -9,10 +9,13 @@ permalink: /
 # Experiments in Various Approaches to Modeling Uncertianty in Real-World Problem Sets
 {: .fs-9 }
 
-Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
+Modeling Uncertainty seeks to identify and explore interesting approaches to understanding the world without disregarding the critical aspects of uncertainty within any given problem set.
 {: .fs-6 .fw-300 }
 
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
+![Example 1000 member ensemble model for infectious persons per 10,000](/assets/images/ensemble_model_front_page.png)
+
+This project includes testing an interactive viewing tool for exploring the model results:
+[Interactive Ensemble Results Project](https://mybinder.org/v2/gh/mwmckenzie/COVID_19_Ensemble_Results_Viewer/master?filepath=index.ipynb){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 ---
 
