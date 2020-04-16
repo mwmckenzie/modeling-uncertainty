@@ -6,7 +6,7 @@ nav_order: 3
 ---
 
 # COVID-19 Ensemble Model Interactive Plotting Application
-### Library Imports and Settings
+## Library Imports and Settings
 The notebook begins - as usual - with the library imports and a few settings. In this case, we tweak the display settings to allow for more optimal plotting views.
 ```python
 import matplotlib.pyplot as plt
@@ -48,7 +48,7 @@ plt.rcParams["figure.figsize"] = (20,10)
 
 
 
-### Simple Pickle (file) Loading Function
+## Simple Pickle (file) Loading Function
 Below we have created a simple pickle (file) loading function to ease the file loading coding needed in this - and future - application.
 
 
