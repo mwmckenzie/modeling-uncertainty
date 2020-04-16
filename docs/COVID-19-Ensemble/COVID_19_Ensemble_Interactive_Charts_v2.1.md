@@ -6,6 +6,8 @@ nav_order: 3
 ---
 
 # COVID-19 Ensemble Model Interactive Plotting Application
+__Spin up a Binder server and interact with a working version of the application:__
+[Interactive Ensemble Results on Docker](https://mybinder.org/v2/gh/mwmckenzie/COVID_19_Ensemble_Results_Viewer/master?urlpath=%2Fapps%2FCOVID_19_Ensemble_Interactive_App_v1.0.ipynb){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 ## Library Imports and Settings
 The notebook begins - as usual - with the library imports and a few settings. In this case, we tweak the display settings to allow for more optimal plotting views.
 ```python
