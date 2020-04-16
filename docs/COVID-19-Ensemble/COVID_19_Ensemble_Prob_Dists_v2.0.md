@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Probability Distribution Creation
-parent: 
+parent: COVID-19 Probabilistic Ensemble
 nav_order: 2
 ---
 
