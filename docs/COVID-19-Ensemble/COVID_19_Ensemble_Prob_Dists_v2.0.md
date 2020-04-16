@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Probability Distribution Creation
+parent: 
 nav_order: 2
 ---
 
