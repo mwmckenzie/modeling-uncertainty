@@ -6,7 +6,7 @@ description: "Modeling Uncertainty seeks to identify and explore interesting app
 permalink: /
 ---
 
-# Focus on writing good documentation
+# Experiments in Various Approaches to Modeling Uncertianty in Real-World Problem Sets
 {: .fs-9 }
 
 Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
