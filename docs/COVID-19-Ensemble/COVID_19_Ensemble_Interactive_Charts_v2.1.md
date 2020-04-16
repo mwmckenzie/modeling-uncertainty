@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Probability Distribution Creation
+title: Interactive Plotting Application
 parent: COVID-19 Probabilistic Ensemble
 nav_order: 3
 ---
 
 # COVID-19 Ensemble Model Interactive Plotting Application
-
-
+### Library Imports and Settings
+The notebook begins - as usual - with the library imports and a few settings. In this case, we tweak the display settings to allow for more optimal plotting views.
 ```python
 import matplotlib.pyplot as plt
 from matplotlib.animation import FuncAnimation
