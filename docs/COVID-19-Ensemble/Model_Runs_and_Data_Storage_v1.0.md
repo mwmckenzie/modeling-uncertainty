@@ -1,3 +1,10 @@
+---
+layout: default
+title: Probability Distribution Creation
+parent: COVID-19 SEIR Ensemble with Behavioral Forcing
+nav_order: 4
+---
+
 # Model Run and Data Storage Application Notebook
 
 ### Imports and carry-overs
