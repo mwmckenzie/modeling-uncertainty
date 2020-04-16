@@ -2,7 +2,7 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
+description: "Modeling Uncertainty seeks to identify and explore interesting approaches to understanding the world without disregarding the critical aspects of uncertainty within any given problem set."
 permalink: /
 ---
 
