@@ -1,3 +1,10 @@
+---
+layout: default
+title: Probability Distribution Creation
+parent: COVID-19 Probabilistic Ensemble
+nav_order: 3
+---
+
 # COVID-19 Ensemble Model Interactive Plotting Application
 
 
