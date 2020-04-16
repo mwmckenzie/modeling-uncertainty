@@ -2,7 +2,7 @@
 layout: default
 title: Interactive Plotting Application
 parent: COVID-19 SEIR Ensemble with Behavioral Forcing
-nav_order: 3
+nav_order: 4
 ---
 
 # COVID-19 Ensemble Model Interactive Plotting Application
