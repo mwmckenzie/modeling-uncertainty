@@ -6,7 +6,7 @@ description: "Modeling Uncertainty seeks to identify and explore interesting app
 permalink: /
 ---
 
-# Experiments in Various Approaches to Modeling Uncertianty in Real-World Problem Sets
+# Experimental Approaches to Modeling the Uncertianty Found in Real-World Problem Sets
 {: .fs-9 }
 
 Modeling Uncertainty seeks to identify and explore interesting approaches to understanding the world without disregarding the critical aspects of uncertainty within any given problem set.
