@@ -16,7 +16,10 @@ Experimental Approaches to Modeling the Uncertianty Found in Real-World Problem 
 
 __Modeling Uncertainty__ seeks to identify and explore interesting approaches to understanding the world without disregarding the critical aspects of uncertainty within any given problem set.
 
-This project includes testing an interactive viewing tool for exploring the model results:
+## Latest Projects and Updates
+### COVID-19 Probabilistic Ensemble Model
+- Annotated Python Jupyter notebooks the COVID-19 Probabilistic Ensemble Model created and posted. See sidebar for links to each.
+- Testing an interactive viewing tool for exploring the model results:
 [Interactive Ensemble Results Project](https://mybinder.org/v2/gh/mwmckenzie/COVID_19_Ensemble_Results_Viewer/master?filepath=index.ipynb){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 ---
