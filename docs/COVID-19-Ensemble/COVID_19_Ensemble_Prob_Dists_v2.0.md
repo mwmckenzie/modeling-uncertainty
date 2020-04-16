@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Probability Distribution Creation
-parent: COVID-19 Probabilistic Ensemble
+parent: COVID-19 SEIR Ensemble with Behavioral Forcing
 nav_order: 2
 ---
 
