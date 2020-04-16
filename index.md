@@ -21,7 +21,7 @@ __Modeling Uncertainty__ seeks to identify and explore interesting approaches to
 ## Latest Projects and Updates
 ### COVID-19 Probabilistic Ensemble Model
 - Annotated Python Jupyter notebooks the COVID-19 Probabilistic Ensemble Model created and posted. See sidebar for links to each.
-- Testing an interactive viewing tool for exploring the model results:
-[Interactive Ensemble Results Project](https://mybinder.org/v2/gh/mwmckenzie/COVID_19_Ensemble_Results_Viewer/master?urlpath=%2Fapps%2FCOVID_19_Ensemble_Interactive_App_v1.0.ipynb){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+- Testing Docker to host interactive Jupyter notebooks and apps for exploring some of  the model results online:
+[Interactive Ensemble Results via Docker](https://mybinder.org/v2/gh/mwmckenzie/COVID_19_Ensemble_Results_Viewer/master?urlpath=%2Fapps%2FCOVID_19_Ensemble_Interactive_App_v1.0.ipynb){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 ---
