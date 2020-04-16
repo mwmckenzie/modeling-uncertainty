@@ -7,7 +7,7 @@ permalink: /
 ---
 
 # _Modeling Uncertainty_
-# A Project Hub for Various Experimental Probabilistic and Ensemble Models
+## A Project Hub for Various Experimental Probabilistic and Ensemble Models
 {: .fs-9 }
 
 Experimental Approaches to Modeling the Uncertianty Found in Real-World Problem Sets
