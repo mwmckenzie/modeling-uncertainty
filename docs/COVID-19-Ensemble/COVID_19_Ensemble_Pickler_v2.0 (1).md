@@ -1,3 +1,9 @@
+---
+layout: default
+title: Probability Distribution Creation
+parent: COVID-19 SEIR Ensemble with Behavioral Forcing
+nav_order: 2
+---
 
 # Creating and Exporting Probability Distributions for the Probabilistic SEIR Models
 Begin with library imports and a few various settings, as well as determining the overall population size for the probability distributions and SEIR models.
