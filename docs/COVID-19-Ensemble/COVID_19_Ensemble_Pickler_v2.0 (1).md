@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Probability Distribution Creation
+title: Probability Distribution Creation Application
 parent: COVID-19 SEIR Ensemble with Behavioral Forcing
 nav_order: 2
 ---
