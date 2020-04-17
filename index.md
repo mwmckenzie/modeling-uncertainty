@@ -8,10 +8,10 @@ permalink: /
 
 # _Modeling Uncertainty_ 
 {: .fs-9 }
-## A Project Hub for Various Experimental Probabilistic and Ensemble Models
+## A Project Hub for Experiments with Probabilistic and Ensemble Modeling
 {: .fs-9 }
 
-Experimental Approaches to Modeling the Uncertianty Found in Real-World Problem Sets
+Unique and Interesting Approaches to Better Understand Real-World Problem Sets
 {: .fs-6 .fw-300 }
 
 ![Example 1000 member ensemble model for infectious persons per 10,000](/assets/images/ensemble_model_front_page.png)
