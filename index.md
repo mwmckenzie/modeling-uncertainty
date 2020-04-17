@@ -19,9 +19,14 @@ Unique and Interesting Approaches to Better Understand Real-World Problem Sets
 {: .px-8 }
 
 ## Latest Projects and Updates
+See the Sidebar for Links to the Full Projects Listed Below
 ### COVID-19 Probabilistic Ensemble Model
-- Annotated Python Jupyter notebooks the COVID-19 Probabilistic Ensemble Model created and posted. See sidebar for links to each.
+- Multiple annotated Python Jupyter notebooks the COVID-19 Probabilistic Ensemble Model created and posted:
+ - A probility distribution discovery and creation application.
+ - The main ensemble model and data organization and export application.
+ - A data visualization and exploration application.
 - Testing Docker to host interactive Jupyter notebooks and apps for exploring some of  the model results online:
+
 [Interactive Ensemble Results via Docker](https://mybinder.org/v2/gh/mwmckenzie/COVID_19_Ensemble_Results_Viewer/master?urlpath=%2Fapps%2FCOVID_19_Ensemble_Interactive_App_v1.0.ipynb){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 ---
