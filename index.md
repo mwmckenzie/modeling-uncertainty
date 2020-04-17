@@ -22,7 +22,7 @@ Unique and Interesting Approaches to Better Understand Real-World Problem Sets
 ## Latest Projects and Updates
 _See the Sidebar for Links to the Full Projects Listed Below_
 ### COVID-19 Probabilistic Ensemble Model
-- Multiple annotated Python Jupyter notebooks the COVID-19 Probabilistic Ensemble Model created and posted:
+- Multiple annotated Python Jupyter notebooks for the first COVID-19 Probabilistic Ensemble Model created and posted:
   - A probility distribution discovery and creation application.
   - The main ensemble model and data organization and export application.
   - A data visualization and exploration application.
