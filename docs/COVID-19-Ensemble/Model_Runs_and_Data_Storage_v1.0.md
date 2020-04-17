@@ -6,10 +6,9 @@ nav_order: 3
 ---
 
 # Model Run and Data Storage Application Notebook
-
-### Imports and carry-overs
-The notebook begins with the library imports and a few settings. It then carries over a few of the functions and classes from the previous application - as this application is a modification of the original, larger application.
-
+[Jump to the Model](https://mwmckenzie.github.io/modeling-uncertainty/docs/COVID-19-Ensemble/Model_Runs_and_Data_Storage_v1.0/#the-modelrun-class){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+## Imports and carry-overs
+The notebook begins again with similar library imports and settings. It then carries over a few of the functions and classes from the previous application - as this application is a modification of the original, larger application. Carrying over the functions and classes allows for the loaded distributions to be parsed for attributes, but also for new distributions to be created as needed on-the-fly.
 
 ```python
 import matplotlib.pyplot as plt
@@ -132,7 +131,7 @@ def behaviorModifier(total_conf, conf_trigg):
     return np.random.beta(beta_a, beta_b)
 ```
 
-### Loading in the previously generated distributions
+## Loading in the previously generated distributions
 Originally, we would be generating the following distributions using the classes and methods above, but to save time and computational resources we previously saved the generated classes for each and will now load them back into a modified version of the application.
 
 
@@ -379,6 +378,7 @@ for result_type in results_dict:
 This is done for two reasons:
 - Curiosity. It seems very interesting to compare the mean against the models and see how they differ.
 - To attempt to capture inconsistencies. If the mean is not well represented or reflected by a single model run (out of 1000 total model runs) there should be consideration in how the mean is used. The mean can still provide insights into trends and potential outcomes, but the less similar the mean is with actual model runs, the more the individual model runs should be examined to better understand the expected nature of real world results.
+
 ```python
 from sklearn.metrics import mean_squared_error
 
