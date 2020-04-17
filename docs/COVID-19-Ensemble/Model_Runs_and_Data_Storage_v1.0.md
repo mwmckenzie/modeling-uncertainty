@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SEIR Model and Data Organization
+title: SEIR Model and Data Organization Application
 parent: COVID-19 SEIR Ensemble with Behavioral Forcing
 nav_order: 3
 ---
