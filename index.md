@@ -15,9 +15,8 @@ Unique and Interesting Approaches to Better Understand Real-World Problem Sets
 {: .fs-6 .fw-300 }
 
 ![Example 1000 member ensemble model for infectious persons per 10,000](/assets/images/ensemble_model_front_page.png)
-<div align="center">
  _A beautiful, and somewhat mesmerizing, example of a "Spaghetti Plot" displaying the results from a 1,000 model ensemble. The results depict the outcome of randomly sampled initial conditions run through the SEIR model created for this site's first project. See the sidebar for links to the details and code._
-</div>
+{: .px-8 }
 
 ## Latest Projects and Updates
 ### COVID-19 Probabilistic Ensemble Model
