@@ -35,7 +35,7 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "Download Models, Notebooks, and More on GitHub":
+  "Download Models, Notebooks, and Datasets on GitHub":
     - "//github.com/mwmckenzie/modeling-uncertainty"
 
 # Footer content appears at the bottom of every page's main content
