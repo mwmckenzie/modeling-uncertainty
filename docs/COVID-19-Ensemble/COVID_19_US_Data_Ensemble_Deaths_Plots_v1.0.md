@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Reported Deaths vs Ensemble Model Predictions Vis App
+title: US Deaths vs Ensemble Model Predictions Visualizations
 parent: COVID-19 SEIR Ensemble with Behavioral Forcing
 nav_order: 7
 ---
