@@ -6,7 +6,8 @@ description: "Modeling Uncertainty seeks to identify and explore interesting app
 permalink: /
 ---
 
-# _Modeling Uncertainty_ 
+# **_For_** Modeling:  
+*__Try__* Uncertainty 
 {: .fs-9 }
 ## A Project Hub for Experiments with Probabilistic and Ensemble Modeling
 {: .fs-9 }
