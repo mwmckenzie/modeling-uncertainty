@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Reported Confirmed Cases vs Ensemble Model Predictions Vis App
+title: US Confirmed Cases vs Ensemble Model Predictions Visualizations
 parent: COVID-19 SEIR Ensemble with Behavioral Forcing
 nav_order: 6
 ---
