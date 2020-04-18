@@ -1,3 +1,10 @@
+---
+layout: default
+title: US COVID-19 Data Import and Processing Application
+parent: COVID-19 SEIR Ensemble with Behavioral Forcing
+nav_order: 5
+---
+
 # US COVID-19 Data Import and Processing Application
 
 
