@@ -25,8 +25,8 @@ _See the Sidebar for Links to the Full Projects Listed Below_
   - A probility distribution discovery and creation application.
   - The main ensemble model and data organization and export application.
   - A data visualization and exploration application.
-- Testing Docker to host interactive Jupyter notebooks and apps for exploring some of  the model results online:
+- Testing [MyBinder.org](https://mybinder.org/) to host interactive Jupyter notebooks and apps for exploring some of  the model results online:
 
-[Interactive Ensemble Results via Docker](https://mybinder.org/v2/gh/mwmckenzie/COVID_19_Ensemble_Results_Viewer/master?urlpath=%2Fapps%2FCOVID_19_Ensemble_Interactive_App_v1.0.ipynb){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Interactive Ensemble Results via MyBinder](https://mybinder.org/v2/gh/mwmckenzie/COVID_19_Ensemble_Results_Viewer/master?urlpath=%2Fapps%2FCOVID_19_Ensemble_Interactive_App_v1.0.ipynb){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 ---
