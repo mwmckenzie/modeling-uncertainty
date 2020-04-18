@@ -8,6 +8,8 @@ nav_order: 6
 # US COVID-19 Reported Confirmed Cases vs Ensemble Model Predictions
 ## Data Visualization Application
 
+__To compare US COVID-19 data and ensemble model results spin up a MyBinder server and interact with a working version of the application:__
+[Build and Deploy this Application on MyBinder](https://mybinder.org/v2/gh/mwmckenzie/COVID_19_Ensemble_Results_Viewer/master?urlpath=%2Fapps%2FCOVID_19_US_Data_Ensemble_Conf_Cases_Plots_v1.0.ipynb){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 ```python
 import matplotlib.pyplot as plt
