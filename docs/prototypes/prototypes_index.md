@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Project Prototypes and Proofs of Concept
-nav_order: 2
+nav_order: 5
 has_children: true
 permalink: /docs/prototypes
 ---
