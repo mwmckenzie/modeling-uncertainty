@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Graph-Based Network SEIR Simulation
+title: Graph-Based Network Simulated SEIR Model
 parent: CVD19 Graph Network Model
 nav_order: 2
 ---
