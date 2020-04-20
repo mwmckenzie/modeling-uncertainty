@@ -1,7 +1,7 @@
 ---
 layout: default
 title: CVD19 Graph Network Model
-nav_order: 2
+nav_order: 3
 has_children: true
 permalink: /docs/CVD19_graph_model
 ---
