@@ -5,7 +5,7 @@ parent: CVD19 Graph Network Model
 nav_order: 2
 ---
 
-# Modeling an Epidemic with Graphs
+# Modeling an Epidemic with Graph Theory and Network Simulations
 ## Using Graphs and Networks to Simulate a SEIR Model
 To create and utilize graphs we first expand our imports and include the python library __networkx__, as well as number of other libraries that will assist in graph plotting and visualizations.
 
