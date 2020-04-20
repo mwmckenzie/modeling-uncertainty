@@ -6,6 +6,23 @@ nav_order: 2
 ---
 
 # Modeling an Epidemic with Graph Theory and Network Simulations
+## Quick Navigation
+  * [Using Graphs and Networks to Simulate a SEIR Model](#using-graphs-and-networks-to-simulate-a-seir-model)
+  * [Setting a few global variables](#setting-a-few-global-variables)
+  * [Recycle the _df_dist_ class from the Ensemble Model](#recycle-the--df-dist--class-from-the-ensemble-model)
+  * [Import Probability Distributions from the Ensemble Model Application](#import-probability-distributions-from-the-ensemble-model-application)
+  * [Taking advantage of graph theory and node properties by establishing _personalities_](#taking-advantage-of-graph-theory-and-node-properties-by-establishing--personalities-)
+  * [Estimating the fatality rate of the critical cases](#estimating-the-fatality-rate-of-the-critical-cases)
+  * [Creating the graph](#creating-the-graph)
+  * [Introduce the virus](#introduce-the-virus)
+  * [Creating the network](#creating-the-network)
+  * [The Simulation](#the-simulation)
+  * [Details in the Graph](#details-in-the-graph)
+  * [Edge Data including Disease Transmission](#edge-data-including-disease-transmission)
+  * [Other Important Statistics](#other-important-statistics)
+  * [Exporting the Graph](#exporting-the-graph)
+  * [Future Work](#future-work)
+
 ## Using Graphs and Networks to Simulate a SEIR Model
 To create and utilize graphs we first expand our imports and include the python library __networkx__, as well as number of other libraries that will assist in graph plotting and visualizations.
 
