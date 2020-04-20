@@ -308,7 +308,7 @@ beh_max_dist.checkParams()
     
 
 
-![png](output_11_1.png)
+![png](/assets/images/graph_1a.png)
 
 
 ## Estimating the fatality rate of the critical cases
@@ -483,7 +483,7 @@ plt.tight_layout()
 ```
 
 
-![png](output_25_0.png)
+![png](/assets/images/graph_1b.png)
 
 
 ## The Simulation
@@ -753,7 +753,7 @@ plt.show()
 ```
 
 
-![png](output_33_0.png)
+![png](/assets/images/graph_1c.png)
 
 
 We have multiple ways to create lists or series of daily concurrent infectious from our log data. Below are two different methods and printed verifications of similar results.
@@ -781,7 +781,7 @@ plt.show()
 ```
 
 
-![png](output_37_0.png)
+![png](/assets/images/graph_1d.png)
 
 
 ## Exporting the Graph
