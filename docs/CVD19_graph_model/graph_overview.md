@@ -6,5 +6,5 @@ has_children: true
 permalink: /docs/CVD19_graph_model
 ---
 
-# Experimental COVID-19 Model
+# Experimental COVID-19 Model #2
 ## A Graph-based Network SEIR Model with Behavioral Forcing
