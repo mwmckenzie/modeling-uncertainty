@@ -6,5 +6,5 @@ has_children: true
 permalink: /docs/COVID-19-Ensemble
 ---
 
-# Experimental COVID-19 Model
+# Experimental COVID-19 Model #1
 ## A SEIR Probabilistic Ensemble Model with Behavioral Forcing
