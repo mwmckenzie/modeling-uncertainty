@@ -18,11 +18,14 @@ Unique and Interesting Approaches towards a Better Understanding of Real-World P
 {: .fs-2}
 
 ## Latest Projects and Updates
+{: .fs-9 }
 _See the Sidebar for Links to the Full Projects Listed Below_
 {: .fs-2 .lh-0}
 ## COVID-19 Graph Theory-Based Network Simulation SEIR Model
+{: .fs-9 }
 ### The first annotated Python Jupyter notebook has been posted!
 ## COVID-19 Probabilistic Ensemble Model
+{: .fs-9 }
 ### Multiple annotated Python Jupyter notebooks for the first COVID-19 Probabilistic Ensemble Model created and posted:
   - A probility distribution discovery and creation application.
   - The main ensemble model and data organization and export application.
