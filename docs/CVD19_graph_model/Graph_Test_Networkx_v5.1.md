@@ -9,12 +9,12 @@ nav_order: 2
 ## Quick Navigation
   * [Using Graphs and Networks to Simulate a SEIR Model](#using-graphs-and-networks-to-simulate-a-seir-model)
   * [Setting a few global variables](#setting-a-few-global-variables)
-  * [Recycle the _df_dist_ class from the Ensemble Model](#recycle-the--df-dist--class-from-the-ensemble-model)
+  * [Recycling the _df_dist_ class from the Ensemble Model](#recycling-the--df-dist--class-from-the-ensemble-model)
   * [Import Probability Distributions from the Ensemble Model Application](#import-probability-distributions-from-the-ensemble-model-application)
   * [Taking advantage of graph theory and node properties by establishing _personalities_](#taking-advantage-of-graph-theory-and-node-properties-by-establishing--personalities-)
   * [Estimating the fatality rate of the critical cases](#estimating-the-fatality-rate-of-the-critical-cases)
   * [Creating the graph](#creating-the-graph)
-  * [Introduce the virus](#introduce-the-virus)
+  * [Introducing the virus](#introducing-the-virus)
   * [Creating the network](#creating-the-network)
   * [The Simulation](#the-simulation)
   * [Details in the Graph](#details-in-the-graph)
@@ -79,7 +79,7 @@ i_critical = i_severe + .006 # (def 0.006) critical rate
 beh_max_mean, beh_max_low, beh_max_high = 10, 5, 15
 ```
 
-## Recycle the _df_dist_ class from the Ensemble Model
+## Recycling the _df_dist_ class from the Ensemble Model
 This will allow us to import and reuse the distribution files created by the ensemble modeling application (see below).
 
 
@@ -185,7 +185,7 @@ def behaviorModifier(total_conf, conf_trigg):
     return np.random.beta(beta_a, beta_b)
 ```
 
-## Import Probability Distributions from the Ensemble Model Application
+## Importing Probability Distributions from the Ensemble Model Application
 We take advantage of the distribution files created in our previous project and import the same distributions directly to avoid having to recalculate, reprocess, and reorganize similar data.
 
 
@@ -306,7 +306,7 @@ list(G.nodes.data())[:10]
 
 
 
-## Introduce the virus
+## Introducing the virus
 Here we randomly select a person to be the introduction vector of the disease into the population.
 - We then set their current _state_ to _exposed_ (__'E'__)
 - We also set the period  of the individuals infection by sampling the incubation period distribution.
