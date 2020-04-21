@@ -1,4 +1,9 @@
-
+---
+layout: default
+title: CVD19 Ensemble Model Prototype
+parent: Project Prototypes and Proofs of Concept
+nav_order: 2
+---
 
 ```python
 from scipy.stats import beta
