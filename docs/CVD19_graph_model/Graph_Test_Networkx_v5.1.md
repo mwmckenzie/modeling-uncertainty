@@ -243,9 +243,13 @@ beh_max_dist.checkParams()
 As we are breaking out the critical cases of COVID-19, we can do a check against the expected number of fatilities as the critical cases are identified. 
 - This will then ensure that the fatalities are generated from the likely cases (the most ill) and are of the expected proportion to the population size.
 - To estimate the appropriate number of fatalities per critical case, we use the confirmed and cfr rates against critical and critical fatality rates as seen in the following calculation:
-$$Confirmed Cases * Case Fatality Rate = Critical Cases * Critical Fatalitiy Rate$$
+
+![Confirmed Cases * Case Fatality Rate = Critical Cases * Critical Fatalitiy Rate](https://render.githubusercontent.com/render/math?math=Confirmed%20Cases%20*%20Case%20Fatality%20Rate%20%3D%20Critical%20Cases%20*%20Critical%20Fatalitiy%20Rate)
+
 - As we have values for the mean of the expected confirmed cases (per infected population), cfr, and critical cases, we can refine the equation as thus:
-$$Critical Fatalitiy Rate = \frac{Confirmed Cases * Case Fatality Rate}{Critical Cases}$$
+
+![Critical Fatalitiy Rate = \frac{Confirmed Cases * Case Fatality Rate}{Critical Cases}](https://render.githubusercontent.com/render/math?math=Critical%20Fatalitiy%20Rate%20%3D%20%5Cfrac%7BConfirmed%20Cases%20*%20Case%20Fatality%20Rate%7D%7BCritical%20Cases%7D)
+
 - The critical case rate is then updated to reflect the range set aside for the case fatality rate.
 - Finally, we check the critical case rate
 
