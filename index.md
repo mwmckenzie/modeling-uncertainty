@@ -22,11 +22,11 @@ Unique and Interesting Approaches towards a Better Understanding of Real-World P
 _See the Sidebar [Top Menu on mobile] for Links to the Full Projects Listed Below_
 {: .fs-2 .lh-0}
 ## COVID-19 Graph Network Simulation SEIR Model
-{: .fs-9 }
+{: .fs-8 }
 ### The first annotated Python Jupyter notebook has been posted!
 [Annotated Simulation Notebook](https://mwmckenzie.github.io/modeling-uncertainty/docs/CVD19_graph_model/Graph_Test_Networkx_v5.1/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 ## COVID-19 Probabilistic Ensemble Model
-{: .fs-9 }
+{: .fs-8 }
 ### Multiple annotated Python Jupyter notebooks for the first COVID-19 Probabilistic Ensemble Model created and posted:
   - A probility distribution discovery and creation application.
   - The main ensemble model and data organization and export application.
